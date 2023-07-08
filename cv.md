@@ -1,6 +1,6 @@
-1. Vadim Mitin ![my photo](Mitin.jpg)
+1. Vadim Mitin ![my photo](pictures/Mitin.png)
 2. email: vadimmitin@mail.ru, telegram: `@WhiteVadim`
-3. I really love information technology. Working with them is like a hobby for me.
+3. I am keen on information technology. Working with them is as a hobby for me.
 
     I like to solve complex tasks that require connections of various components. I like to learn new technologies while working on tasks.
 
